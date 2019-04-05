@@ -13,7 +13,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./images/angle_distibution.PNG "Angles distribution"
+[image1]: ./images/angle_distribution.PNG "Angles distribution"
 [image2]: ./images/flip.PNG "Flipped"
 [image3]: ./images/brightness.PNG "Brightened Image"
 [image4]: ./images/noise.PNG "noisy Image"
